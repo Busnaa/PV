@@ -24,4 +24,7 @@ Pro konfiguraci programu je možné nastavit různé hodnoty v souboru `app.conf
 ## Autoři
 - Vojtěch Mydlář (@Busnaa)
 
+## Poznámky
+Problém s cizíma klíčema
+
 
