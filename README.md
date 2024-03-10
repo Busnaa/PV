@@ -1,4 +1,4 @@
-# Projekt Název
+# Název projektu
 
 Projektik
 
